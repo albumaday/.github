@@ -1,5 +1,14 @@
-## ♫ Album A Day ♫
+# ♫ Album A Day ♫
 
 Welcome one and all!
 
-Feel free to visit the public project to make recommendations for what you'd like me to work on with the AAD Bot. Also for the future projects...
+## B2EMO Bot
+
+The active Kanban board for the B2EMO Bot can be [here](https://github.com/orgs/albumaday/projects/1/views/1).
+
+### Submitting issues
+
+To submit issues, head to the **.github** public repository in this organization, then navigate to the **Issues** tab.
+![image](https://user-images.githubusercontent.com/13096122/225754360-83f15d89-54fb-4f91-b44f-ea90d2674297.png)
+
+From here, you can create an issue! Be sure to provide as many details as possible, and the issue will be looked into. The next step would be the issue being moved over to the Kanban board.
