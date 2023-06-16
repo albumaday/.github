@@ -10,6 +10,18 @@
 | aad-sdk    | private | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white) ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white) ![JUnit5](https://img.shields.io/badge/JUnit5-25A162.svg?style=for-the-badge&logo=JUnit5&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                      |
 | aad-client | private | Coming Soon                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 
+# Contributions
+
+If you have any ideas for something that should be added to Album A Day, feel free to submit an issue as described below.
+
+Code contributions are only being accepted by CODEOWNERS at the moment.
+
+### Submitting issues
+
+**NOTE:** You will need to have a GitHub account to be able to submit issues.
+
+To submit issues, head to the **.github** public repository in this organization, then navigate to the **Issues** tab.
+![image](https://user-images.githubusercontent.com/13096122/225754587-fe71956f-379d-4010-9934-2918c2793a07.png)
 
 # B2EMO Bot
 
@@ -17,12 +29,12 @@ The active Kanban board for the B2EMO Bot can be [here](https://github.com/orgs/
 
 ### Submitting issues
 
+**NOTE:** You will need to have a GitHub account to be able to submit issues.
+
 To submit issues, head to the **.github** public repository in this organization, then navigate to the **Issues** tab.
 ![image](https://user-images.githubusercontent.com/13096122/225754587-fe71956f-379d-4010-9934-2918c2793a07.png)
 
 From here, you can create an issue! Be sure to provide as many details as possible, and the issue will be looked into. The next step would be the issue being moved over to the Kanban board.
-
-**NOTE:** You will need to have a GitHub account to be able to submit issues.
 
 ## AWS EC2
 
