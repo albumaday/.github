@@ -1,5 +1,5 @@
 # ♫ Album A Day ♫
-![Album A Day](../public/album_a_day_logo.png)
+![Album A Day](https://github.com/albumaday/.github/blob/main/public/album_a_day_logo.png?raw=true)
 
 # B2EMO Bot
 
@@ -85,7 +85,7 @@ Now you're all set for Deployment
 ### Deployment
 
 #### Production
-![B2EMO](../public/B2EMO.png)
+![B2EMO](https://github.com/albumaday/.github/blob/main/public/B2EMO.png?raw=true)
 
 Copy the proper files for running the Bot and SDK images correctly:
 ```shell
@@ -125,7 +125,7 @@ docker stop aad-sdk
 ```
 
 #### Staging
-![S2EMO](../public/S2EMO.png)
+![S2EMO](https://github.com/albumaday/.github/blob/main/public/S2EMO.png?raw=true)
 
 Copy the proper files for running the Bot and SDK images correctly:
 ```shell
@@ -173,7 +173,7 @@ docker pull mattgrantumich/album-a-day:aad-sdk-latest
 ```
 
 ## Local Development
-![L2EMO](../public/L2EMO.png)
+![L2EMO](https://github.com/albumaday/.github/blob/main/public/L2EMO.png?raw=true)
 
 To develop, run the following command:
 ```shell
